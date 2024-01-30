@@ -1,0 +1,51 @@
+"1": The picture shows a large red pill in the left corner against a cyan wall on an orange floor.
+"2": The picture shows a gigantic orange cylinder in the left corner in front of a cyan wall on a pink floor.
+"3": The picture shows a gigantic green ball in the middle against a red wall on a pink floor.
+"4": The picture shows a tiny light green ball in the left corner with a yellow wall in the background on a pink floor.
+"5": The picture shows a middle-sized red pill in the middle against a yellow wall on a cyan floor.
+"6": The picture shows a gigantic medium blue cylinder in the middle on a yellow floor with a green wall behind it.
+"7": The picture shows a middle-sized green pill in the middle against a cyan wall on a red floor.
+"8": The picture shows a gigantic medium blue cylinder in the middle against a red wall on a light green floor.
+"9": The picture shows a gigantic purple ball in the left corner against an orange wall on a pink floor.
+"10": The picture shows a large red pill in the middle against a cyan wall on a light green floor.
+    "11": The picture shows a big green block in the left corner against a yellow wall on a purple floor.
+"12": The picture shows a gigantic orange ball in the middle against a light green wall on an orange floor.
+"13": The picture shows a large light green cylinder in the right corner against a purple wall on a purple floor.
+"14": The picture shows a medium-sized medium blue pill in the middle against a pink wall on a cyan floor.
+"15": The picture shows a small light green pill in the middle against a purple wall on a light green floor.
+"16": The picture shows a tiny orange cylinder in the right corner against a pink wall on a medium blue floor.
+"17": The picture shows a big pink pill in the right corner against an orange wall on a yellow floor.
+"18": The picture shows a small cyan block in the left corner against a medium blue wall on a purple floor.
+"19": The picture shows a huge dark blue pill in the middle against a red wall on a medium blue floor.
+"20": The picture shows a gigantic medium blue block in the middle against a red wall on an orange floor.
+    
+"21": The picture shows a gigantic pink cylinder in the middle against a medium blue wall on a purple floor.
+"22": The picture shows a medium-sized red pill in the middle against a light green wall on a green floor.
+"23": The picture shows a medium-sized purple pill in the right corner against a yellow wall on a red floor.
+"24": The picture shows a medium-sized dark blue ball in the middle against a pink wall on a medium blue floor.
+"25": The picture shows a gigantic yellow pill in the middle against a cyan wall on a red floor.
+"26": The picture shows a tiny yellow ball in the left corner against a medium blue wall on an orange floor.
+"27": The picture shows a large purple block in the right corner against a green wall on an orange floor.
+"28": The picture shows a big dark blue cylinder in the middle against an orange wall on a medium blue floor.
+"29": The picture shows a small purple pill in the right corner against a pink wall on a pink floor.
+"30": The picture shows a medium-sized light green block in the right corner against an orange wall on a light green floor.
+    "31": The picture shows a medium-sized light green block in the right corner against an orange wall on a light green floor.
+"32": The picture shows a gigantic medium blue ball in the middle corner against a pink wall on a yellow floor.
+"33": The picture shows a large pink pill in the left corner against an orange wall on a light green floor.
+"34": The picture shows a medium-sized dark blue ball in the right corner against a yellow wall on a pink floor.
+"35": The picture shows a medium-sized medium blue ball in the left corner against a cyan wall on a cyan floor.
+"36": The picture shows a tiny cyan ball in the right corner against a light green wall on a medium blue floor.
+"37": The picture shows a large medium blue ball in the middle against an orange wall on a cyan floor.
+"38": The picture shows a tiny yellow cylinder in the middle against a green wall on a light green floor.
+"39": The picture shows a huge medium blue ball in the left corner against a purple wall on a red floor.
+"40": The picture shows a big medium blue ball in the right corner against a purple wall on a light green floor.
+"41": The picture shows a gigantic orange pill in the middle against a purple wall on a red floor.
+"42": The picture shows a gigantic orange pill in the left corner against a red wall on a red floor.
+"43": The picture shows a huge yellow ball in the left corner against a cyan wall on a green floor.
+"44": The picture shows a medium-sized cyan block in the left corner against a cyan wall on a purple floor.
+"45": The picture shows a medium-sized green cylinder in the left corner against a medium blue wall on a medium blue floor.
+"46": The picture shows a large green cylinder in the middle against a pink wall on a yellow floor.
+"47": The picture shows a tiny orange block in the left corner against a light green wall on a pink floor.
+"48": The picture shows a small dark blue pill in the right corner against a yellow wall on a red floor.
+"49": The picture shows a small orange cylinder in the right corner against a yellow wall on a cyan floor.
+"50": The picture shows a gigantic purple ball in the middle against a green wall on a dark blue floor.
