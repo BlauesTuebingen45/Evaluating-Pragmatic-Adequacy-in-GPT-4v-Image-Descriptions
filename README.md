@@ -14,3 +14,4 @@ The "images_uncropped" folder contains the images before cropping.
 The "one-feature" folder contains an pair of two images, who share one feature.
 The "two-features" folder contains an pair of two images, who share two features.
 The "three-features" folder contains an pair of two images, who share three features.
+"clean_sentences.txt" contains the ground truth for each image. 
